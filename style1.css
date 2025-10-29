@@ -301,3 +301,8 @@ footer {
     color: var(--text-secondary);
     border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
+
+.img
+{
+ border-radius:50% ;
+}
